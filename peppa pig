@@ -1,15 +1,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-{\bf SRM Institute Of Science & Technology, Kattankulathur, Tamil Nadu} \hfill {\em 2021 - 2025} 
-↩{Bachelor of Technology}
-↩{\textit CGPA: 8.72}
+C++ Programming\\
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	Extracurricular Section
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Education }
+
+
+{\bf SRM Institute Of Science \& Technology, Kattankulathur, Tamil Nadu} \hfill {\em 2021 - 2025} 
+\\{\textit{Bachelor of Technology}}
+\\{\textit CGPA: 8.72}
 
 {\bf Sri Chaitanya Junior College, Vijayawada, Andhra Pradesh} \hfill {\em 2019 - 2021} 
-↩{ BIEAP}
-↩{\textit Percentage: 95.7}
+\\{\textit{ BIEAP}}
+\\{\textit Percentage: 95.7}
 
 {\bf Narayana E-Techno Schools, Eluru, Andhra Pradesh} \hfill {\em 2018 - 2019} 
-↩{ SSC}
-↩{\textit CGPA: 10}
+\\{\textit{ SSC}}
+\\{\textit CGPA: 10}
 
 % \\- xx
 % \\- xx
@@ -19,16 +28,16 @@
 
 \end{rSection}
 \begin{rSection}{Conferences and workshops}
- Cloud Computing - Robert Bosch↩
- Py-Cycle - Dewtown↩
- Data Analysis Using PowerBI - Techtip24↩
- 5th IEEE Conference on systems and automation - Manakula Vinyagar Institute of science and technology↩
+ Cloud Computing - Robert Bosch\\
+ Py-Cycle - Dewtown\\
+ Data Analysis Using PowerBI - Techtip24\\
+ 5th IEEE Conference on systems and automation - Manakula Vinyagar Institute of science and technology\\
 \end{rSection}
 
 \begin{rSection}{Extra-curricular activities}
- Directorate of Student Affairs - Volunteer↩
- Member Of Institute Of Engineers↩
- Winner (Top 10) at Hack$Day by 0x.Day : Secured a top 10 rank among 500+ teams in 48 hrs hackathon.
+ Directorate of Student Affairs - Volunteer\\
+ Member Of Institute Of Engineers\\
+ Winner (Top 10) at Hack\$Day by 0x.Day : Secured a top 10 rank among 500+ teams in 48 hrs hackathon.
 
 \end{rSection}
 
